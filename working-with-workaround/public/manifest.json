@@ -1,0 +1,11 @@
+{
+  "name": "TicTac2",
+  "description": "TicTac2 reinvents TicTacToe with a 4x4 grid, where you win by connecting four in a row or claiming a full 2x2 square. More strategy, more ways to win!",
+  "short_name": "TicTac2",
+  "theme_color": "#F4F3EB",
+  "background_color": "#F4F3EB",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
